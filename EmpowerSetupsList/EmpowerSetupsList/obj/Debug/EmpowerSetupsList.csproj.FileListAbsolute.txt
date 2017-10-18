@@ -1,0 +1,9 @@
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Debug\EmpowerSetupsList.exe.config
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Debug\EmpowerSetupsList.exe
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Debug\EmpowerSetupsList.pdb
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.csprojResolveAssemblyReference.cache
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.Properties.Resources.resources
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.csproj.GenerateResource.Cache
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.exe
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.pdb
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Debug\EmpowerSetupsList.Setup.resources

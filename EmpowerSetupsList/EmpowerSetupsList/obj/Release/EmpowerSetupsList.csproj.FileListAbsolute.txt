@@ -1,0 +1,18 @@
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.exe.config
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.exe
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.pdb
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.Properties.Resources.resources
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.Setup.resources
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.csproj.GenerateResource.Cache
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.exe
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.pdb
+C:\Empower\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.csprojResolveAssemblyReference.cache
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.exe.config
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.exe
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.pdb
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.exe
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\bin\Release\EmpowerSetupsList.pdb
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.csprojResolveAssemblyReference.cache
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.Properties.Resources.resources
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.Setup.resources
+C:\Empower\CAP1-custom screens\EmpowerSetupsList\EmpowerSetupsList\obj\Release\EmpowerSetupsList.csproj.GenerateResource.Cache
